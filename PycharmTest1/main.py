@@ -22,3 +22,6 @@ print("Hello World Updates on GitHub ")
 
 # Second Updates on Github
 print("Hello World Second Updates on Github Only")
+
+# Print the name of each member
+print("Hello name Min-Chul Song")
