@@ -29,3 +29,5 @@ print("Print the name of each member")
 print("Min-Chul Song")
 
 print("Min-Kyu Lee")
+
+print("Min-Seop Kim")
